@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="testemp" label="TestEmp" language="en" table="x_244056_employees_emp_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testemp</element>
+            <help/>
+            <hint/>
+            <label>TestEmp</label>
+            <language>en</language>
+            <name>x_244056_employees_emp_table</name>
+            <plural>TestEmps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-13 15:53:05</sys_created_on>
+            <sys_id>23b24d60db0b6300af357fcfbf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>TestEmp</sys_name>
+            <sys_package display_value="Employees Details" source="x_244056_employees">da44c06cdb476300af357fcfbf9619be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employees Details">da44c06cdb476300af357fcfbf9619be</sys_scope>
+            <sys_update_name>sys_documentation_x_244056_employees_emp_table_testemp_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-13 15:53:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

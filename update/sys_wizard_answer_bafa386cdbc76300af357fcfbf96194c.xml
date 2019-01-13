@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Emp Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Emp Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e8cad1555d121300651727c3e282e84b</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-13 15:19:10</sys_created_on>
+        <sys_id>bafa386cdbc76300af357fcfbf96194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Emp Table</sys_name>
+        <sys_package display_value="Employees Details" source="x_244056_employees">da44c06cdb476300af357fcfbf9619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employees Details">da44c06cdb476300af357fcfbf9619be</sys_scope>
+        <sys_update_name>sys_wizard_answer_bafa386cdbc76300af357fcfbf96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-13 15:19:10</sys_updated_on>
+        <table/>
+        <target_url>x_244056_employees_emp_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

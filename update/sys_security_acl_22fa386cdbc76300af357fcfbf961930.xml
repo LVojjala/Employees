@@ -4,22 +4,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_244056_employees_details_table</description>
-        <name>x_244056_employees_details_table</name>
-        <operation display_value="read">read</operation>
+        <description>Default access control on x_244056_employees_emp_table</description>
+        <name>x_244056_employees_emp_table</name>
+        <operation display_value="create">create</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-13 11:20:13</sys_created_on>
-        <sys_id>ea44846cdb476300af357fcfbf9619da</sys_id>
+        <sys_created_on>2019-01-13 15:19:10</sys_created_on>
+        <sys_id>22fa386cdbc76300af357fcfbf961930</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_244056_employees_details_table</sys_name>
+        <sys_name>x_244056_employees_emp_table</sys_name>
         <sys_package display_value="Employees Details" source="x_244056_employees">da44c06cdb476300af357fcfbf9619be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employees Details">da44c06cdb476300af357fcfbf9619be</sys_scope>
-        <sys_update_name>sys_security_acl_ea44846cdb476300af357fcfbf9619da</sys_update_name>
+        <sys_update_name>sys_security_acl_22fa386cdbc76300af357fcfbf961930</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-13 11:20:13</sys_updated_on>
+        <sys_updated_on>2019-01-13 15:19:10</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Employees Details">b244c46cdb476300af357fcfbf961928</application>
+        <application display_value="Emp Table">22fa386cdbc76300af357fcfbf96192c</application>
         <filter/>
-        <name>Employees Details Table</name>
+        <name>Emp Tables</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
         <roles>x_244056_employees.user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-01-13 11:20:15</sys_created_on>
+        <sys_created_on>2019-01-13 15:19:10</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>7644c46cdb476300af357fcfbf96192a</sys_id>
+        <sys_id>6efa386cdbc76300af357fcfbf96192d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Employees Details Table</sys_name>
+        <sys_name>Emp Tables</sys_name>
         <sys_package display_value="Employees Details" source="x_244056_employees">da44c06cdb476300af357fcfbf9619be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employees Details">da44c06cdb476300af357fcfbf9619be</sys_scope>
-        <sys_update_name>sys_ui_module_7644c46cdb476300af357fcfbf96192a</sys_update_name>
+        <sys_update_name>sys_ui_module_6efa386cdbc76300af357fcfbf96192d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-13 11:20:15</sys_updated_on>
-        <table>x_244056_employees_details_table</table>
+        <sys_updated_on>2019-01-13 15:19:10</sys_updated_on>
+        <table>x_244056_employees_emp_table</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
